@@ -9,6 +9,7 @@
 @import <Foundation/Foundation.j>
 @import <AppKit/AppKit.j>
 @import "AppController.j"
+@import "PhotoInspector.j"
 
 
 function main(args, namedArgs)
